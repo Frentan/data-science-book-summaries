@@ -26,11 +26,14 @@ Diving into a new data set is not just a matter of checking off statistics, but 
 
 **A loose framework for tackling data science problems:**
 
- 1. *What is the question we are asking?* Companies have diverse teams, so make sure to state the question in a way everyone can understand and see why it might be relevant and useful.
- 2. *How do we know when we've won?* You need to define the metrics by which you will evaluate your answer, be they quantitative or qualitative, and everyone must be on the same page about what a successful outcome looks like.
- 3. *Assuming we solve this problem perfectly, what will we build first?* This is intended to clarify the solution's potential to impact your business. After defining the first thing, it's good to come up with more and look for both short- and long-term value.
- 4. *If everyone in the world uses this, what is the impact?* 
+ 1. ***What is the question we are asking?*** Companies have diverse teams, so make sure to state the question in a way everyone can understand and see why it might be relevant and useful.
+ 2. ***How do we know when we've won?*** You need to define the metrics by which you will evaluate your answer, be they quantitative or qualitative, and everyone must be on the same page about what a successful outcome looks like.
+ 3. ***Assuming we solve this problem perfectly, what will we build first?*** This is intended to clarify the solution's potential to impact your business. After defining the first thing, it's good to come up with more and look for both short- and long-term value.
+ 4. ***If everyone in the world uses this, what is the impact?*** Reinforcing once more the relevance criterion, resources should only be invested in projects that will have a significant impact on business.
+ 5. ***What's the most evil thing that can be done with this?*** This works on two fronts. Your colleagues are probably *not* evil. But imagining what would happen *if you abandon all constraints* can help to think outside the proverbial box. Secondly, good and lawful people generally don't see the potential uses a tool can have for evil. Scientists are often making ethical decisions, even if inadvertently. Just because you *can* do something doesn't mean you *should*. When uncertain, refer to experts on privacy and legal matters, such as the [Electronic Frontier Foundation](https://www.eff.org/) and [The Center for Internet and Society](https://cyberlaw.stanford.edu/).
 
+## Designing the Organization
+TO BE CONTINUED...
 
 > Written with [StackEdit](https://stackedit.io/).
 
