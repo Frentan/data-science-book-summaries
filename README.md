@@ -11,4 +11,3 @@ This is intended as an efficient way to condense and review some relevant books 
 
 [Data Jujitsu: The Art of Turning Data into Product by DJ Patil]() - IN PROGRESS.
 
-[Ethics and Data Science by Mike Loukides]() - IN PROGRESS.
